@@ -1,0 +1,6 @@
+192.168.56.101 ansible_python_interpreter=/usr/bin/python3
+192.168.56.101 pip_pacakge=pip3
+
+192.168.56.103 ansible_python_interpreter=/usr/bin/python3
+192.168.56.103 pip_package=pip3
+
